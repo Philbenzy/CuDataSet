@@ -21,7 +21,7 @@ https://drive.google.com/drive/folders/1cUEygGUeoiIBSQ4m0gZL4MQ8awlTeY3X?usp=sha
 
 # 5 数据库文件命名规则
 
-**4.1标注类别为：**
+**5.1标注类别为：**
 
  - 白铜(cup)
     - 黑点(black_spot)
@@ -36,7 +36,7 @@ https://drive.google.com/drive/folders/1cUEygGUeoiIBSQ4m0gZL4MQ8awlTeY3X?usp=sha
     - 划痕(scratch)
     - 油斑(oil_drop)
 
-**4.2命名方式为：**
+**5.2命名方式为：**
 
 ​	种类-缺陷类别-编号.jpg
 
