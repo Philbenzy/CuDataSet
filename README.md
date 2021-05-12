@@ -10,9 +10,10 @@
 
 # 3 数据库下载
 
-谷歌云盘地址：
+百度网盘地址：
 
-https://drive.google.com/drive/folders/1cUEygGUeoiIBSQ4m0gZL4MQ8awlTeY3X?usp=sharing
+链接：https://pan.baidu.com/s/1C-2VA3WWQB1C0F3mNT313w 
+提取码：3302 
 
 # 4 项目结构
 
@@ -44,7 +45,7 @@ https://drive.google.com/drive/folders/1cUEygGUeoiIBSQ4m0gZL4MQ8awlTeY3X?usp=sha
 
 - 由我完成样本的制作与拍摄工作
 - 感谢实验室的两位师弟完成了繁杂的标注任务
-  - 昆明理工大学 制导制导专业 徐启亮
+  - 昆明理工大学 制导与导航专业 徐启亮
   - 昆明理工大学 控制工程专业 毕唐琪
 - 感谢试验室的两位师姐在拍摄时给予对我们进行指导
   - 昆明理工大学 计算机科学与技术 赵鹤
